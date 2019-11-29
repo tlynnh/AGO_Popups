@@ -1,2 +1,2 @@
-# AGO_Popups
-Popup HTML
+# AGO Popups
+Popup HTML: Displays attributes in boxes
