@@ -1,4 +1,6 @@
 # AGO Popups
-Popup HTML: Displays attributes in boxes
+
+
+ValueBoxes.html
 
 <img src="https://i.imgur.com/NAPVSHN.png">
